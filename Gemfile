@@ -1,0 +1,6 @@
+source "http://rubygems.org"
+gem "bundler"
+gem "rake"
+gem "cucumber"
+gem "selenium-webdriver"
+gem "require_all"
