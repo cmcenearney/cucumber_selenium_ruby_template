@@ -6,4 +6,10 @@ http://selenium.googlecode.com/svn/trunk/docs/api/rb/frames.html
 
 `bundle install`
 
+then
+
 `cucumber`
+
+or use Rake (run all cucumber features is the default task)
+
+`rake`

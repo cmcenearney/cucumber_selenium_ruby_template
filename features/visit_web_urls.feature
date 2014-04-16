@@ -6,6 +6,6 @@ Feature: Basic web browsing
     Then the page should be loaded
 
   Examples:
-  | url               |
-  | http://cukes.info |
-  | http://google.com |
+  |	url               																		|
+  |	http://cukes.info 																		|
+  |	https://code.google.com/p/selenium/wiki/RubyBindings	|
